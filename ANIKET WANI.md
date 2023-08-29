@@ -4,9 +4,9 @@
 
 08 28, 2022
 
-- Bit Strings question from CSES
+- Question 1 - Bit Strings CSES
   [code link - https://pastebin.com/FsW0MfiX]
-- Question 2 - Two Sets qstn from CSES 
+- Question 2 - Two Sets CSES 
   [code Link - https://pastebin.com/AYtJ8Ghq]
 - Question 3 - cf (A)dragons problem
   [submission link - https://codeforces.com/contest/230/submission/220962453]
