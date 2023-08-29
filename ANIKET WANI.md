@@ -4,13 +4,15 @@
 
 08 28, 2022
 
-- Question 1 - Bit Strings CSES
+- Bit Strings question from CSES
   [code link - https://pastebin.com/FsW0MfiX]
-- Question 2 - Two Sets CSES 
+- Question 2 - Two Sets qstn from CSES 
   [code Link - https://pastebin.com/AYtJ8Ghq]
-- Question 3 - cf (A)dragons problem
+- Question 3 - cf (A)dragons problem - https://codeforces.com/problemset/problem/230/A
   [submission link - https://codeforces.com/contest/230/submission/220962453]
-- Question 4 - cf (B)Taxi problem
+- Question 4 - cf (B)Taxi problem - https://codeforces.com/problemset/problem/158/B
   [submission link - https://codeforces.com/contest/158/submission/220957932]
 - Question 5 - Coin piles CSES
   [code link - https://pastebin.com/jbXjtXMx]
+- Question 6 - cf foootball - https://codeforces.com/problemset/problem/43/A
+  [submission link - https://codeforces.com/contest/43/submission/221002763]
