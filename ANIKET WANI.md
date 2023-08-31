@@ -28,3 +28,15 @@
 
     C brute solution done (TLE on 3rd preset)
     [code link - https://pastebin.com/138u9AdF]
+
+
+### Day 3
+
+08 31, 2022
+
+- Question 1 - Two Knights CSES
+  [code link - https://pastebin.com/djaGeP8u]
+- Question 2 - Trailing Zeroes CSES
+  [code link - https://cses.fi/paste/9301d36f52c747a26a1b45/]
+- Question 3 - Palindrome Reorder CSES
+  [code link - https://cses.fi/paste/61f7e39b073ce2506a2568/]
