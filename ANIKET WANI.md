@@ -40,3 +40,7 @@
   [code link - https://cses.fi/paste/9301d36f52c747a26a1b45/]
 - Question 3 - Palindrome Reorder CSES
   [code link - https://cses.fi/paste/61f7e39b073ce2506a2568/]
+- Question 4 - CF Twins - https://codeforces.com/problemset/problem/160/A
+  [submission link - https://codeforces.com/contest/160/submission/221369406]
+- Question 5 - CF EVEN odds - https://codeforces.com/problemset/problem/318/A
+  [Submission link - https://codeforces.com/contest/318/submission/221367210]
