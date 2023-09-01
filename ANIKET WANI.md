@@ -55,4 +55,4 @@
   [submission link - https://codeforces.com/contest/1475/submission/221468193]
 - Question 3 - CSES Gray code
   [code link - https://cses.fi/paste/7aee7474a20b12e96a4930/]
-- Revised Recursion from striver
+- Revised Recursion and Backtracking from striver
