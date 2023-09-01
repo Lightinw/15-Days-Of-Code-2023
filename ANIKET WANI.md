@@ -44,3 +44,14 @@
   [submission link - https://codeforces.com/contest/160/submission/221369406]
 - Question 5 - CF EVEN odds - https://codeforces.com/problemset/problem/318/A
   [Submission link - https://codeforces.com/contest/318/submission/221367210]
+
+### Day 4
+
+09 01, 2022
+
+- Question 1 - CF Exciting bets - https://codeforces.com/problemset/problem/1543/A
+  [submission link - https://codeforces.com/contest/1543/submission/221479213]
+- Question 2 - CF Odd divisor - https://codeforces.com/problemset/problem/1475/A
+  [submission link - https://codeforces.com/contest/1475/submission/221468193]
+- Question 3 - CSES Gray code
+  [code link - https://cses.fi/paste/7aee7474a20b12e96a4930/]
