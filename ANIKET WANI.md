@@ -2,7 +2,7 @@
 
 ### Day 1
 
-08 29, 2022
+August 29, 2022
 
 - question 1 - Bit Strings question from CSES
   [code link - https://pastebin.com/FsW0MfiX]
@@ -19,7 +19,7 @@
 
 ### Day 2
 
-08 30, 2022
+August 30, 2022
 
 - Studied Heap from Aditya verma sir lec 1,2 and 3;
 - Pinely round 2(div 1 + div 2) CF contest
@@ -32,7 +32,7 @@
 
 ### Day 3
 
-08 31, 2022
+August 31, 2022
 
 - Question 1 - Two Knights CSES
   [code link - https://pastebin.com/djaGeP8u]
@@ -47,7 +47,7 @@
 
 ### Day 4
 
-09 01, 2022
+September 01, 2022
 
 - Question 1 - CF Exciting bets - https://codeforces.com/problemset/problem/1543/A
   [submission link - https://codeforces.com/contest/1543/submission/221479213]
