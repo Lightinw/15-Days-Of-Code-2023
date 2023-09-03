@@ -56,3 +56,11 @@ September 01, 2022
 - Question 3 - CSES Gray code
   [code link - https://cses.fi/paste/7aee7474a20b12e96a4930/]
 - Revised Recursion and Backtracking from striver
+
+### Day 5
+
+09 02, 2022
+
+- Recursion and Backtracking from striver lec 8 & 9.
+- Heap from Aditya verma sir lec 4 & 5.
+- was unable to do much because of travelling
