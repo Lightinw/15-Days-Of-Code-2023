@@ -59,8 +59,19 @@ September 01, 2022
 
 ### Day 5
 
-09 02, 2022
+September 02, 2022
 
 - Recursion and Backtracking from striver lec 8 & 9.
 - Heap from Aditya verma sir lec 4 & 5.
 - was unable to do much because of travelling.
+
+### Day 6
+
+September 03, 2022
+
+- Question 1 - Distinct Numbers CSES 
+  [Submission link - https://cses.fi/paste/89f040ad8bf82a1b6a8c38/]
+- Question 2 - Ferris Wheel CSES 
+  [Submission link - https://cses.fi/paste/cde16b52967d1f566a8d96/]
+- Question 3 - CF Pizza forces - https://codeforces.com/problemset/problem/1555/A
+  [Submission link - https://codeforces.com/contest/1555/submission/221670689]
