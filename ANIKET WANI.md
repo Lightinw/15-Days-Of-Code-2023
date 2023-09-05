@@ -87,3 +87,10 @@ September 04, 2022
 - Question 3 - CS Same Differences - https://codeforces.com/problemset/problem/1520/D
   [submission link - https://codeforces.com/contest/1520/submission/221828445]
   
+  ### Day 8
+
+September 08, 2022
+
+- Question 1 - CF Multiply by 2, Divide by 6
+  [submission link - https://codeforces.com/contest/1374/submission/221953674] 
+- Dynamic programming lec 1,2 (Striver)
