@@ -75,3 +75,15 @@ September 03, 2022
   [Submission link - https://cses.fi/paste/cde16b52967d1f566a8d96/]
 - Question 3 - CF Pizza forces - https://codeforces.com/problemset/problem/1555/A
   [Submission link - https://codeforces.com/contest/1555/submission/221670689]
+
+### Day 7
+
+September 04, 2022
+
+- Question 1 - Apple Division CSES
+  [submission link - https://cses.fi/paste/3de865896e2eb7336ab749/]
+- Question 2 - Digit Queries CSES
+  [tried ]
+- Question 3 - CS Same Differences - https://codeforces.com/problemset/problem/1520/D
+  [submission link - https://codeforces.com/contest/1520/submission/221828445]
+  
