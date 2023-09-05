@@ -63,7 +63,7 @@ September 02, 2022
 
 - Recursion and Backtracking from striver lec 8 & 9.
 - Heap from Aditya verma sir lec 4 & 5.
-- was unable to do much because of travelling.
+- unable to do much because of travelling.
 
 ### Day 6
 
