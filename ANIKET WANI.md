@@ -8,9 +8,9 @@ August 29, 2022
   [code link - https://pastebin.com/FsW0MfiX]
 - Question 2 - Two Sets qstn from CSES 
   [code Link - https://pastebin.com/AYtJ8Ghq]
-- Question 3 - cf (A)dragons problem - https://codeforces.com/problemset/problem/230/A
+- Question 3 - cf dragons problem - https://codeforces.com/problemset/problem/230/A
   [submission link - https://codeforces.com/contest/230/submission/220962453]
-- Question 4 - cf (B)Taxi problem - https://codeforces.com/problemset/problem/158/B
+- Question 4 - cf Taxi problem - https://codeforces.com/problemset/problem/158/B
   [submission link - https://codeforces.com/contest/158/submission/220957932]
 - Question 5 - Coin piles CSES
   [code link - https://pastebin.com/jbXjtXMx]
