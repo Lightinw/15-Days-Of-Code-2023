@@ -89,8 +89,28 @@ September 04, 2022
   
   ### Day 8
 
-September 08, 2022
+September 05, 2022
 
 - Question 1 - CF Multiply by 2, Divide by 6
   [submission link - https://codeforces.com/contest/1374/submission/221953674] 
 - Dynamic programming lec 1,2 (Striver)
+
+  ### Day 9
+
+September 06, 2022
+- Janmashtami break
+
+  ### Day 10
+
+September 07, 2022
+
+- Question 1 - CF Gift Carpet - https://codeforces.com/contest/1862/problem/A
+  [Submission link - https://codeforces.com/contest/1862/submission/222191210]
+- Question 2 - CF Sequence Game - https://codeforces.com/contest/1862/problem/B
+  [Submission - https://codeforces.com/contest/1862/submission/222200534]
+- Question 3 - CF Flower city fence - https://codeforces.com/contest/1862/problem/C
+  [Submission link - https://codeforces.com/contest/1862/submission/222217367]
+- Question 4 - CF round 895 div 3 A 
+  [submission link - https://codeforces.com/contest/1872/submission/222273863]
+- Question 5 -CF round 895 div 3 B
+  [Submission link - https://codeforces.com/contest/1872/submission/222324893]
