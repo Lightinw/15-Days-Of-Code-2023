@@ -114,3 +114,10 @@ September 07, 2022
   [submission link - https://codeforces.com/contest/1872/submission/222273863]
 - Question 5 -CF round 895 div 3 B
   [Submission link - https://codeforces.com/contest/1872/submission/222324893]
+
+  ### Day 11
+
+September 08, 2022
+
+- Linked List (Striver)
+- Dynamic Programming (Striver)
