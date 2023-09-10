@@ -121,3 +121,17 @@ September 08, 2022
 
 - Linked List (Striver)
 - Dynamic Programming (Striver)
+
+  ### Day 12
+
+September 09, 2022
+
+- Question 1 - Apartments CSES 
+  [Submission link - https://cses.fi/paste/7dca439550d6d2ac6b6b71/]
+- Question 2 -  Restaurant customers CSES 
+  [Submission link - https://cses.fi/paste/3c64fad2d6af713d6b6fea/]
+- Question 3 -  Movie Festival CSES
+  [Submission link - https://cses.fi/paste/699f760b086860c36b726a/]
+- Question 4 - Concert Tickets 
+  [Submission link - https://cses.fi/paste/97feac571db216916b6d94/]
+- DFS from LUV
