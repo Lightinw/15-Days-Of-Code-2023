@@ -135,3 +135,20 @@ September 09, 2022
 - Question 4 - Concert Tickets 
   [Submission link - https://cses.fi/paste/97feac571db216916b6d94/]
 - DFS from LUV
+
+  ### Day 13
+
+September 10, 2022
+
+- Question 1 - CF Split Sort 
+  [submission link - https://codeforces.com/contest/1863/submission/222721626]
+- Question 2 - CF MEX Repetitions
+  [submission link - https://codeforces.com/contest/1863/submission/222705848]
+
+  ### Day 14
+
+September 11, 2022
+
+- tried to Upsolve past contest questions
+- Precomputation using DFS (Luv)
+
